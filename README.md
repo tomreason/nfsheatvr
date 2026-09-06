@@ -4,6 +4,10 @@
 
 Experimental OpenXR VR runtime for the PC Steam/EA version of **Need for Speed Heat**.
 
+# Support the developer by purchasing the game CYBRID
+
+[STEAM VR](https://store.steampowered.com/app/1636850/CYBRID/)  or  [QUEST STORE](https://www.meta.com/en-gb/experiences/cybrid/24008454042113681/)
+
 The project injects a D3D11 runtime into the game at launch, presents Heat's final frame in an OpenXR headset, adds direct seated head tracking for the in-car camera and offers depth-reconstructed stereo. It is a community prototype, not an EA product.
 
 > Tested with `NeedForSpeedHeat.exe` 1.0.60.7040 / Steam build 10351341. Use it in single-player only. It does not include any files from the game.
@@ -75,6 +79,8 @@ The script retrieves only two pinned source dependencies: MinHook v1.3.4 and Ope
 ## Credits and licenses
 
 Created by TOM REASON.
+
+
 
 The code in this repository is released under the [MIT License](LICENSE). It includes or links against third-party components listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md), including AMD FidelityFX FSR 1 (MIT), MinHook (BSD-2-Clause) and OpenXR-SDK (Apache-2.0).
 
