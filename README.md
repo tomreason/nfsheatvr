@@ -1,5 +1,7 @@
 # NFS Heat VR
 
+![NFS Heat VR](nfs_heat_vr.png)
+
 Experimental OpenXR VR runtime for the PC Steam/EA version of **Need for Speed Heat**.
 
 The project injects a D3D11 runtime into the game at launch, presents Heat's final frame in an OpenXR headset, adds direct seated head tracking for the in-car camera and offers depth-reconstructed stereo. It is a community prototype, not an EA product.
