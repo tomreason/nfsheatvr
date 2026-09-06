@@ -1,0 +1,4 @@
+#include "nfs_heat_vr_resource.h"
+
+// Bundled NFS Heat VR application icon (bright source ICO).
+IDI_NFS_HEAT_VR ICON "nfs_heat_vr_icon.ico"
